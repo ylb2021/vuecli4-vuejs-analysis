@@ -26,7 +26,7 @@ npm run lint
 
 flow-bin
 
-add .babelrc.js .flowconfig file
+add .babelrc.js file
 
 add npm package
 
