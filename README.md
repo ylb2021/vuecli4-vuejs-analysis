@@ -1,4 +1,4 @@
-# vuecli4-code-analysis
+# vuecli4-vuejs-analysis
 
 ## Project setup
 
